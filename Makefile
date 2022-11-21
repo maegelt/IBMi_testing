@@ -1,7 +1,7 @@
 
 BIN_LIB=CMPSYS
 LIBLIST=$(BIN_LIB)
-SHELL=/QOpenSys/usr/bin/qsh
+SHELL=/QOpenSys/usr/bin/-sh
 
 all: depts.pgm.sqlrpgle employees.pgm.sqlrpgle
 
